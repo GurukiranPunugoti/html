@@ -1,0 +1,360 @@
+<html>
+
+ <head> 
+ 
+   <meta charset="UTF-8"> 
+   <title>sp calibrations</title>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <style>
+  
+   *
+   {
+    margin:0px;
+	padding:0px;
+	}
+   
+    
+   
+    .top-header{
+	    width:100%;
+		height:auto;
+		
+	           }
+			   
+	.logo{
+	    width:500px;
+		height:auto;
+		float:left;
+		margin-top:38px;
+         }	
+		 
+	.certificates{ 
+	    width:300px;
+		high:auto;	
+		float:left;
+		margin-bottom:30px;
+		text-align:center;
+         }
+
+    .contacts{
+	    width:300px;
+		height:auto;
+		float:left;
+		padding:20px 0px;
+		font-size:1.2em;
+		
+         }	
+		 
+	.container{
+	    width:1100px;
+		margin:0px auto;
+
+              }	
+			  
+			  
+	.menu{
+	    width:100%;
+		height:50px;
+		border:1px solid;
+		overflow:hidden;
+		background-color:#0175C0;
+	
+		
+         }	
+		 
+	.menu ul li{
+	    float:left;
+		border-right:1px solid#FFF6EF;
+		list-style-type:none;
+		padding:0px 10px;
+		font-size:1.4em;
+		font-family:arial;
+         }
+		 
+	.menu ul li a{
+	    color:#FFF6EF;
+		text-decoration:none;
+		padding:5px;
+		 }
+		 
+    .menu ul li a:hover{
+        background:#27242B;
+		 }	
+		 
+    .banner{
+        width:100%;
+		height:auto;
+		}
+
+    .company-info{
+            width:33%;
+            height:500px;
+            border-right:1px dashed#000;	
+            float:left;			
+            margin-top:20px;			
+			}	
+				 
+	.company-info:last-child{
+	        border:0px;
+			}
+			
+	.company-info h1{
+        text-align:center;
+		font-family:arial;
+		    }
+
+    .company-info p{
+        font-size:1.5em;
+		font-family:arial;
+		padding:10px;
+			}	
+			
+	.advertise{
+        width:100%;
+        height:50px;	
+        overflow:hidden;
+	    background:#064185;
+		color:#FCFDFE;
+		font-family:arial;
+		 font-size:1.5em;
+		  }	
+		  
+    .box2{
+	    width:100%;
+		height:auto;
+		overflow:hidden;
+		background:#ECECEC;
+		margin-top:25px;
+		
+		 }
+	.box3{
+	    width:23%;
+		height:auto;
+		margin-left:30px;
+		margin-top:30px;
+		margin-bottom:50px;
+		float:left;
+		
+		 }
+		 
+	.box4{
+	    width:74%;
+		height:auto;
+	    margin-top:-10px;
+		background:#ECECEC;
+		float:left;
+		font-family:arial;
+		 }
+		 
+    .box4 p{
+        font-family:arial;
+		font-size:1.4em;
+		   }	
+		   
+		   
+	.services{
+	    width:100%;
+		height:auto;
+		
+			 }
+			 
+	.services-nav{
+	    width:33%;
+        height:auto;
+        float:left;	
+		font-family:arial;
+       	
+		    }
+			
+	.services-nav ul li{
+        list-style-type:none;
+        font-family:arial;
+        font-size:1.2em;
+        padding:5px;
+        margin-right:30px;		
+			}	
+			
+			
+	.service-nav ul li::before{
+         content:"\00bb"; 
+         }	
+
+    .box5{
+        width:100%;
+        height:50px;
+        overflow:hidden;
+		padding-left:50px;
+		padding-bottom:10px;
+		}	
+		
+	.demo{
+	    width:100%;
+        height:auto;	
+        padding:10px;
+		float:left; 
+		 }
+		 
+	.demo img{
+	    margin:7px;
+			 }
+			 
+	.footer{
+	    width:100%;
+        background:#167BC1;
+        border:1px solid;
+		overflow:hidden;
+			   }	
+
+    .footer ul li{
+            color:#F5FBF6;
+			font-family:arial;
+			float:left;
+			font-size:1em;
+			padding:10px;
+			list-style-type:none;
+			
+				 }	
+				 
+	
+		   	   
+   </style>
+   
+ </head>
+ 
+ <body>
+ 
+
+ 
+   <div class="container"><!--container start-->
+   
+   <div class="top-header">   
+   <div class="logo"><img src="sp.jpg"></div>
+   
+   <div class="certificates"><img src="iso.jpg"><img src="nabl.jpg"></div>
+   
+   <div class="contacts">
+   <h4 style="color:#355583;"><i class="fa fa-phone" style="color:#3399CC; margin-right:5px;"></i>+91 8008005768,8978956560</h4>
+   <h4 style="color:#355583;"><i class="fa fa-envelope" style="color:#95DAF7; margin-right:5px;"></i>Gurukiran002@gmail.com</h4></div>
+   
+   
+   </div>
+   </div><!--container end-->
+   
+   
+   
+   
+   <div class="menu">
+   <div class="container"><!--container start-->
+    <ul>
+	  <li><a href="#"><i class="fa fa-home"></i>
+	  <li><a href="#">About us</a></li>
+	  <li><a href="#">NABL scope</a></li>
+	  <li><a href="#">Services</a></li>
+	  <li><a href="#">With us</a></li>
+	  <li><a href="#">Careers</a></li>
+	  <li><a href="#">Query</a></li>
+	  <li><a href="#">Gallery</a></li>
+	  <li><a href="#">Contact Us</a></li>
+	 </ul> 
+	 
+    </div><!--container end-->
+   </div>
+     
+	
+   <div class="banner">
+   
+   <div class="container"><!--container start-->
+   <img src="spbanner.jpg" width="100%">
+   </div><!--container end-->
+   </div>
+   
+   <div class="container"><!--container start-->
+   <div class="company-info"><h1 style="color:#4F7DC6">SP Calibration Labs</h1><center><img src="sp2.jpg"></center>
+      <p>SP Calibration Labs is a well established name in the market for offering world class services to its huge clientele in the field of mechanical calibration,thermal calibration and electro technical calibration.</p> 
+       <h3 style="text-align:right;color:red;font-family:arial"> More..</h3> 	  
+   </div>
+   <div class="company-info"><h1 style="color:#E47816">Himaja Enterprises</h1><center><img src="sp3.jpg"></center>
+     <p>Himaja Enterprises is one stop solution for laboratory instrumental Pharma consumable supplies and also will provide laboratory thermal Equipment's and measuring devices.The list of product has been uploaded as under.</p> 
+     <h3 style="text-align:right;color:red;font-family:arial"> More..</h3>   
+   </div>
+   <div class="company-info"><h1 style="color:#A1BE10">MD Message</h1><center><img src="sp1.jpg"></center>
+     <p>We successfully secured major oppurtunities to tie up with leading MNC companies, which are already have a significant impact on SP Calibration and Himaja enterprises business.</p> 
+     <h3 style="text-align:right;color:red;font-family:arial"> More..</h3>
+   </div>
+   </div><!--container end-->
+   
+   <div class="container"><!--container start-->
+   <div class="advertise">
+   <p><marquee>*We successfully secured major oppurtunities to tie up with leading MNC companies, which are already have a significant impact on SP Calibration and Himaja enterprises business.</marquee></p>
+   </div>
+   </div><!--container end-->
+   <div class="container"><!--container start-->
+   <div class="box2"><!--box2 open-->
+  
+   <div class="box3"><img src="sp5.jpg"></div> 
+    <div class="box4"><h1 style="color:#117DC6">Welcome to SP Calibration Labs</h1>
+	<p style="color:#191713">SP Calibration Labs is a well-established name in the market for offering world class services to its huge clientele in the field of Mechanical calibration,Thermal calibration and Electro technical calibration.We into formation as a services provider. We are well established in the year 2012.We are located at Sai Ram Nagar Colony,Nagole. Rangareddy Dist. Hyderabad,Telengana - 500068,INDIA. and carrying out our entire organizational works smoothly. Our services
+	</div>
+   
+   </div><!--box2 end-->
+   </div><!--container end--> 
+   
+   <div class="container"><!--container start-->
+   <div class="services"><!--services start-->
+   <div class="services-nav"><h1 style="color:#117DC6;">Calibration Services</h1>
+     <ul style="color:#0B91F4"> 
+	
+       <li>    <i style="color:red;"class="fa fa-angle-double-right"></i>Thermal</li>
+       <li><i style="color:red;"class="fa fa-angle-double-right"></i>Pressure</li>
+       <li><i style="color:red;"class="fa fa-angle-double-right"></i>Electro Technical</li>
+       <li><i style="color:red;"class="fa fa-angle-double-right"></i>Mass,Volume & Dimensional</li>
+     </ul>  	   
+   </div> 
+   <div class="services-nav"><h1 style="color:#117DC6;">Validation Services</h1>
+     <ul style="color:#0B91F4">
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>All types of Laboratory Ovens</li>
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>Refrigerator & Deep freezer</li>
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>Stability/Cooling & Walk-In-Chambers</li>
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>Autoclaves(Horizontal/Vertical)</li>
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>Clean Room Validation as per ISO14644-1</li>
+	   <li><i style="color:red;"class="fa fa-angle-double-right"></i>T mapping for Warehouse,Cold & Retention Rooms</li>
+	 </ul>  
+   </div>
+   <div class="services-nav"><h1 style="color:#117DC6;">Download Brouchers</h1>
+   <img src="sp18.jpg">
+   </div>
+   </div><!--services end-->
+   </div><!--container end-->
+     
+	<div class="container"><!--container start-->
+    <div class="box5"><h1 style="color:#0B91F4;font-family:arial;">Clients</h1></div>
+	<div class="demo">
+	<marquee>
+	<img src="sp10.jpg" style="border:1px solid;">
+	<img src="sp11.jpg" style="border:1px solid;">
+	<img src="sp12.jpg" style="border:1px solid;">
+	<img src="sp14.jpg" style="border:1px solid;">
+	<img src="sp15.jpg" style="border:1px solid;">
+	</marquee>
+	
+	</div>
+	
+	</div><!--container end-->
+	
+	<div class="footer">
+	  <ul><div class="container"><!--container start-->
+	    <li>Home</li>
+		<li>About us</li>
+		<li>Services</li>
+		<li>With us</li>
+		<li>Careers</li>
+		<li>Query</li>
+		<li>Gallery</li>
+		<li>Contact us</li>
+	   </ul>
+	   
+	   
+	</div>
+	
+   </body>
+</html>
